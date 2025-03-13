@@ -3,4 +3,5 @@ catboost
 xgboost
 dill
 flask
+numpy
 #-e .
